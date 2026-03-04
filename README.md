@@ -27,7 +27,8 @@ I’m a Lagos-based developer focused on building clean, functional web applicat
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn URL Here]
+- **LinkedIn:** https://www.linkedin.com/in/daniel-olowookere-95655a3b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 
 - **Location:** Lagos, Nigeria 🇳🇬
 
 *"I see more than I say, and I build more than I talk."*
